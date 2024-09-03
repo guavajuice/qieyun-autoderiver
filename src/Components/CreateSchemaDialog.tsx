@@ -263,8 +263,8 @@ export default function CreateSchemaDialog({
       try {
         setState(
           actions.addSchema({
-            name: "tupa.js",
-            input: await fetchFile(tshetUinhExamplesURLPrefix + "tupa.js"),
+            name: "tshertqhwirn.js",
+            input: await fetchFile(tshetUinhExamplesURLPrefix + "tshertqhwirn.js"),
           }),
         );
         Swal.close();
