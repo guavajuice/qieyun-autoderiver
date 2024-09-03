@@ -7,7 +7,7 @@ import type { 資料 } from "tshet-uinh";
 
 //export const tshetUinhExamplesURLPrefix = "https://cdn.jsdelivr.net/gh/nk2028/qieyun-examples@dev-qieyun-0.15/";
 export const tshetUinhExamplesURLPrefix =
-  "https://raw.githubusercontent.com/nk2028/qieyun-examples/dev-tshet-uinh-0.15/";
+  "https://raw.githubusercontent.com/guavajuice/qieyun-examples/main/";
 export const tshetUinhTextLabelURLPrefix = "https://cdn.jsdelivr.net/gh/nk2028/qieyun-text-label@dev-qieyun-0.15/";
 
 export const newFileTemplate = /* js */ `
