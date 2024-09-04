@@ -8,5 +8,10 @@ export default {
     "切韻拼音": "tshertqhwirnlaomaqzoiy",
   },
 
+  "韻書、韻圖": {
+    "東國正韻": "tongkuyk",
+    "洪武正韻": "qhongmeo",
+    "蒙古字韻": "mongol",
+  },
 
 } as const;
